@@ -6,3 +6,5 @@ This is a repository for my notes
 (Use git status to see whats going on at this point the file is red)
 * git commit -m "comment about change" (no file name) so that it is set up for next push
 git push (no file_name) to hard save changes into git_hub account
+
+* git diff shows you the difference from one file to the next change..Changes in the file
